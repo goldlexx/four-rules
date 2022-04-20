@@ -3,8 +3,13 @@ body,
   margin: 0;
 }
 
+body {
+  font-family: "Inter", sans-serif;
+}
+
 header {
   height: 100vh;
+  text-align: center;
   background-image: url(https://pictures.s3.yandex.net/frontend-developer/free-course/cover.jpg);
   background-position: center;
   background-size: cover;
@@ -12,7 +17,10 @@ header {
 }
 
 h1 {
+  padding-top: 3%;
+  font-weight: 500;
   font-size: 140px;
+  text-transform: uppercase;
   color: white;
 }
 
