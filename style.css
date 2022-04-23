@@ -39,11 +39,16 @@ h1 {
 
 .card {
   margin-bottom: 60px;
+  padding-top: 45px;
+  padding-right: 45px;
+  padding-bottom: 70px;
+  padding-left: 45px;
   width: 350px;
   background-color: #e3f3ff;
 }
 
 .card-title {
+  margin-bottom: 10px;
   font-weight: 500;
   font-size: 24px;
 }
@@ -53,5 +58,6 @@ h1 {
 }
 
 .card-image {
+  margin-bottom: 25px;
   width: 100%;
 }
