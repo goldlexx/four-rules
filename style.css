@@ -38,6 +38,7 @@ h1 {
 }
 
 .card {
+  margin-bottom: 60px;
   width: 350px;
   background-color: #e3f3ff;
 }
@@ -49,4 +50,8 @@ h1 {
 
 .card-text {
   font-size: 16px;
+}
+
+.card-image {
+  width: 100%;
 }
