@@ -39,6 +39,7 @@ h1 {
 
 .card {
   margin-bottom: 60px;
+  border: 2px solid rgb(250 50 50 / 40%);
   padding: 45px 45px 70px;
   width: 350px;
   background-color: #e3f3ff;
