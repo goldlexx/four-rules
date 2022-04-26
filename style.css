@@ -36,7 +36,10 @@ h1 {
 }
 
 .content {
+  margin: 0 auto;
+  width: 790px;
   font-size: 0;
+  background-color: #8aafcf;
 }
 
 .overlay {
@@ -47,6 +50,7 @@ h1 {
 
 .card {
   display: inline-block;
+  margin-right: 90px;
   margin-bottom: 60px;
   border: 2px solid rgb(250 50 50 / 40%);
   padding: 45px 45px 70px;
