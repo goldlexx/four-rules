@@ -4,7 +4,7 @@
 
 "Четыре правила верстки" - это знакомство с версткой в рамках обучения на курсе ["Веб-разработчик"](https://praktikum.yandex.ru/web/).
 
-| **GithHub Pages** | [Обложка на GitHub Pages](https://goldlexx.github.io/four-rules/) |
+| **GithHub Pages** | [Четыре правила верстки на GitHub Pages](https://goldlexx.github.io/four-rules/) |
 | ----------------- | -------------------------------------------------------------------- |
 
 
