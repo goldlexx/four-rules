@@ -1,25 +1,16 @@
-# Четыре правила верстки
+# Four Layout Principles
 
-## Описание:
+A Russian-language static learning page introducing four layout principles: whitespace, grids, typography, and color. The project uses semantic HTML and CSS without a build step.
 
-"Четыре правила верстки" - это знакомство с версткой в рамках обучения на курсе ["Веб-разработчик"](https://praktikum.yandex.ru/web/).
+## Live page
 
-| **GithHub Pages** | [Четыре правила верстки на GitHub Pages](https://goldlexx.github.io/four-rules/) |
-| ----------------- | -------------------------------------------------------------------- |
+[Open the GitHub Pages demo](https://goldlexx.github.io/four-rules/).
 
+## Run locally
 
-## Инструкция по установке:
+Open `index.html` in a browser, or serve the repository root with any static HTTP server. There are no dependencies to install.
 
-```
-git clone https://github.com/goldlexx/four-rules.git
-```
-Запустите локальный сервер разработки с функцией перезагрузки в реальном времени для статических и динамических страниц - [How do you set up a local testing server? (MDN web docs)](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server)
+## Technologies
 
-
-
-
-
-
-
-
-
+- HTML
+- CSS
