@@ -1,16 +1,25 @@
-# Four Layout Principles
+<div align="center">
 
-A Russian-language static learning page introducing four layout principles: whitespace, grids, typography, and color. The project uses semantic HTML and CSS without a build step.
+# 🎨 Four Layout Principles
 
-## Live page
+Учебная страница о свободном пространстве, сетке, типографике и цвете.
 
-[Open the GitHub Pages demo](https://goldlexx.github.io/four-rules/).
+[![HTML](https://img.shields.io/badge/HTML5-e34f26?logo=html5&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![Demo](https://img.shields.io/badge/demo-GitHub%20Pages-222?logo=github)](https://goldlexx.github.io/four-rules/)
 
-## Run locally
+</div>
 
-Open `index.html` in a browser, or serve the repository root with any static HTTP server. There are no dependencies to install.
+## Демонстрация
 
-## Technologies
+[Открыть страницу](https://goldlexx.github.io/four-rules/)
 
-- HTML
-- CSS
+## Запуск
+
+Откройте `index.html` в браузере или используйте статичный HTTP-сервер.
+
+## Технологии
+
+Семантический HTML и CSS.
+
+## Лицензия
+
+Лицензия в репозитории не указана.
