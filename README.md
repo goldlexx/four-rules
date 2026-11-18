@@ -1,25 +1,19 @@
 <div align="center">
 
-# 🎨 Four Layout Principles
+# 🎨 Четыре правила вёрстки
 
-Учебная страница о свободном пространстве, сетке, типографике и цвете.
+**Короткая иллюстрированная памятка о пустоте, сетке, шрифтах и цвете.**
 
-[![HTML](https://img.shields.io/badge/HTML5-e34f26?logo=html5&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![Demo](https://img.shields.io/badge/demo-GitHub%20Pages-222?logo=github)](https://goldlexx.github.io/four-rules/)
-
-</div>
-
-## Демонстрация
+![HTML](https://img.shields.io/badge/HTML-D94D27) ![CSS](https://img.shields.io/badge/CSS-5546A6)
 
 [Открыть страницу](https://goldlexx.github.io/four-rules/)
 
-## Запуск
+</div>
 
-Откройте `index.html` в браузере или используйте статичный HTTP-сервер.
+Каждому правилу отведена карточка с изображением и коротким пояснением. За крупной обложкой следует сетка, в которой можно сравнить четыре приёма оформления. Весь материал доступен при обычной прокрутке страницы.
 
-## Технологии
+![Обложка памятки «Четыре правила вёрстки»](docs/interface.jpg)
 
-Семантический HTML и CSS.
+## Локальный запуск
 
-## Лицензия
-
-Лицензия в репозитории не указана.
+Откройте `index.html` из корня репозитория в браузере.
